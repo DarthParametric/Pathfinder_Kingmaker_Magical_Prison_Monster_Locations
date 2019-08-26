@@ -1,2 +1,54 @@
-# Pathfinder_Kingmaker_Magical_Prison_Monster_Locations
-A list of all monsters and their locations required to complete the Magical Prison quest
+# Pathfinder: Kingmaker Magical Prison Quest Monster Locations
+
+This is a list of all the monsters you are required to kill, and where you can find them, in order to complete the Magical Prison quest. The list of required locations was derived from the [Magical Prison page on the Kingmaker Wiki](https://pathfinderkingmaker.gamepedia.com/Magical_Prison). The monster list was tabulated during the course of one of my own playthroughs of the game. 
+
+After completing this list, the key item associated with the quest will show -1 charges. I'm not sure if that is intended, or if there is one spare. The quest description says you must kill 45 monsters, but in actuality what it means is you must visit 45 locations. A number of locations require multiple monsters to be killed rather than just one, and many other locations have additional mobs that aren't part of the quest but must be cleared to get to the target. You will know you have completed the requirement for a given location when you see a blue energy effect on the player character (this also runs contrary to the quest description, which intimates that the locations will be marked with a symbol).
+
+
+| Region            | Map                         | Remarks                                                       | Required Monster/s                                                                                  | 
+|-------------------|-----------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------| 
+| -                 | Oak-That-Strayed            | Borders with Outskirts                                        | Insane Dryad                                                                               | 
+| Outskirts         | Old Oak                     |                                                               | Man-eater Troll                                                                            | 
+| Shrike            | Arbor Rock                  | Inside cave                                                   | Huge Earth Elemental                                                                       | 
+| Shrike            | Old Mesa                    |                                                               | Greater Werewolf                                                                           | 
+| Shrike            | Riverine Rise               |                                                               | Large Water Elemental                                                                      | 
+| Shrike            | Ratnook Hill                | Inside cave. Lots of traps outside.                           | 3 x Wererat                                                                                | 
+| Shrike            | Trail in the Hills          |                                                               | Mature Leopard                                                                             | 
+| Kamelands         | Bald Stones                 |                                                               | Torpor, the Great Nightmare                                                                | 
+| Kamelands         | Empty Skull Rock            | Has two caves, must clear both                                | 24 x Ferocious Trollhound                                                                  | 
+| North Narlmarches | Glade in the Wilderness     | Inside cave (clear to spawn Silent)                           | Silent, the Wolf Alpha                                                                     | 
+| North Narlmarches | Tuskgutter's Lair           |                                                               | Tuskgutter                                                                                 | 
+| South Narlmarches | Hodag Lair                  |                                                               | Hodag                                                                                      | 
+| South Narlmarches | Monster Den                 |                                                               | Ancient Wyvern                                                                             | 
+| Dire Narlmarches  | Baneful Bog                 |                                                               | 5 x Thickskin Lizardfolk / King Itshar / Queen Reisha                                      | 
+| Dire Narlmarches  | Dappled Quagmire            |                                                               | Poisonous Primal Doomhydra                                                                 | 
+| Dire Narlmarches  | Rill-And-Spill              | Portal to Other World                                         | Lady of Shallows                                                                           | 
+| Dire Narlmarches  | Swamp Ruins                 |                                                               | Ferocious Devourer                                                                         | 
+| Dire Narlmarches  | Tenacious Marsh             |                                                               | Acid-imbued Giant Slug                                                                     | 
+| Silverstep        | Dragonleaf Gulch            |                                                               | Poisonous Giant Flytrap                                                                    | 
+| Silverstep        | Precipice Trail             | Inside cave                                                   | Mature Athach                                                                              | 
+| Varnhold          | Crooked Teeth / Rotten Cave | Portal to Other World (areas linked to each other)            | Thundervine / Oakenhide, Poisonous Manticore-like Treant                                   | 
+| Varnhold          | Hilltop Trail               | Portal to Other World (inside cave)                           | Dweomerlion                                                                                | 
+| Varnhold          | Spider Lair                 | Kill all Primal Giant Spiders to spawn Matriarch              | Primal Spider Matriarch                                                                    | 
+| Varnhold          | Unfinished Clearing         | Inside cave                                                   | 5 x Alpha Worg from Dunsward Pack                                                          | 
+| Dunsward          | Blood Furrows               | Stand on raised grass patch to spawn Bulete                   | Ancient Bulete                                                                             | 
+| Dunsward          | Rinderpest Burial Ground    |                                                               | 5 x Restless Spectre                                                                       | 
+| Tors of Levenies  | Collapsed Passage           |                                                               | 5 x Zombie / 2 x Agile Zombie / 4 x Sturdy Zombie / 1 x Thick-skinned Dread Zombie Cyclops | 
+| Tors of Levenies  | Little Sellen Source        |                                                               | Insane Wizard                                                                              | 
+| Tors of Levenies  | Shivering Glade             |                                                               | 4 x Ancient Soul Eater                                                                     | 
+| Glenebon          | Charred Ruins               |                                                               | Skillfully Crafted Iron Golem                                                              | 
+| Glenebon          | Country Road                |                                                               | Skillfully Crafted Stone Golem                                                             | 
+| Glenebon          | Fossil Fields               |                                                               | 2 x Sorcerer Medusa                                                                        | 
+| Glenebon          | Giant's Palm                |                                                               | Hatred, Ferocious Smilodon                                                                 | 
+| Glenebon          | Raspberry Gully             |                                                               | Druid                                                                                      | 
+| Glenebon          | Serpent Trail               | Portal to Other World                                         | Poisonous Primal Doomhydra                                                                 | 
+| Glenebon          | Two-Faced Hill              | Inside cave                                                   | Tegreth, Werewolf from Numeria                                                             | 
+| Glenebon          | Wicked Field                |                                                               | Watchful Omen                                                                              | 
+| Pitax             | Giggling Hill               | Portal to Other World (uses a portal, but seems to be a cave) | 4 x Dodgy Redcap Trickster / 3 x Rowdy Redcap Savage                                       | 
+| Pitax             | Ornate Ruins                |                                                               | Skillfully Crafted Golden Golem                                                            | 
+| Pitax             | Wicked Hill                 |                                                               | Patient Shadow                                                                             | 
+| Thousand Voices   | Carnival Glade              | Portal to Other World (two Treants, but only one needed)      | Poisonous Flytrap-like Treant                                                              | 
+| Thousand Voices   | Forest Ballroom             |                                                               | Lady Primrose                                                                              | 
+| Thousand Voices   | Gnawed Rocks                |                                                               | Hoarfrost, Gargoyle Eldtritch Chieftain                                                    | 
+| Thousand Voices   | Grocery Stalls              | Portal to Other World (inside cave)                           | Immense Mandragora                                                                         | 
+| Thousand Voices   | Ilthuliak's Lair            | Inside cave                                                   | Ilthuliak                                                                                  | 
