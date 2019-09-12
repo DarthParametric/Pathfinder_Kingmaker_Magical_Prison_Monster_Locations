@@ -15,7 +15,7 @@ After completing this list, the key item associated with the quest will show -1 
 | Shrike            | Ratnook Hill                | Inside cave. Lots of traps outside.                           | 3 x Wererat                                                                                | 
 | Shrike            | Trail in the Hills          |                                                               | Mature Leopard                                                                             | 
 | Kamelands         | Bald Stones                 |                                                               | Torpor, the Great Nightmare                                                                | 
-| Kamelands         | Empty Skull Rock            | Inside cave (has two, must one on righthand side)             | 8 x Ferocious Trollhound                                                                  | 
+| Kamelands         | Empty Skull Rock            | Inside cave (has two, must clear one on righthand side)       | 8 x Ferocious Trollhound                                                                  | 
 | North Narlmarches | Glade in the Wilderness     | Inside cave (clear to spawn Silent)                           | Silent, the Wolf Alpha                                                                     | 
 | North Narlmarches | Tuskgutter's Lair           |                                                               | Tuskgutter                                                                                 | 
 | South Narlmarches | Hodag Lair                  |                                                               | Hodag                                                                                      | 
